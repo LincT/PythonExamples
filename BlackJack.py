@@ -41,7 +41,6 @@ def main():
                   str(points(playerHand)) +
                   ' points in total.')
             winner()
-    winner()
 
 
 def getSuite():

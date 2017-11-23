@@ -1,7 +1,10 @@
 # GUI with checkboxes for itemized service charges.
 # gives total when button clicked.
-# (attempting procedural generation to reduce code)
+# procedural generation to reduce code and generate menu.
+# update values in self.services dictionary to add/update/remove services.
 import tkinter
+
+__author__ = 'LincT, https://github.com/LincT/PythonExamples'
 
 
 class AutoEstimateGUI:
@@ -12,6 +15,7 @@ class AutoEstimateGUI:
             tkinter.Frame(self.mainWindow)
         self.btmFrame = \
             tkinter.Frame(self.mainWindow)
+
         # service types and costs
         self.services = {
             'oil change': 30.00,
@@ -23,10 +27,13 @@ class AutoEstimateGUI:
             'tire rotation': 20.00,
             'espresso': 3.00
         }
+
         # hold the check button variables
         self.cbValues = {}
+
         # form generation
         for each in self.services.keys():
+
             # make each an IntVar
             self.cbValues[each] = tkinter.IntVar()
             self.cbValues[each].set(0)  # set each
@@ -39,6 +46,7 @@ class AutoEstimateGUI:
                         self.services[each],
                         '.2f')),
                 variable=self.cbValues[each])
+
             # pack each checkbutton as it finishes
             self.cb.pack(side='top')
 
@@ -66,13 +74,13 @@ class AutoEstimateGUI:
             tkinter.Button(
                 self.btmFrame,
                 text='Get Estimate',
-                command=self.get_total)
+                command=self.getTotal)
         # pack the button
         self.myButton.pack(side='right')
         self.btmFrame.pack()  # pack the frame
         tkinter.mainloop()  # enter main loop
 
-    def get_total(self):
+    def getTotal(self):
         total = 0.00  # initialize total
         # get our checkbutton values
         for key in self.cbValues:
