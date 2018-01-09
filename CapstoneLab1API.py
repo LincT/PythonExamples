@@ -4,7 +4,6 @@ import requests
 
 def apiToDictionary(city, state):
     # https://www.zipcodeapi.com/rest/<api_key>/city-zips.<format>/<city>/<state>
-    # 6L5Dv9LWOV7VrqVeKk8H3boogJ7ieLFA6av8zk877PzNSA8a3ddm4jtRZtGhctit
     apiKey = "vY3eONi98Zyz4fxk6WVlw97V36UqtakcuOcY0RDvrAZykq9Jq5bgJeEKubFx6v8n"
     myFormat = "json"
     requestString = "https://www.zipcodeapi.com/rest/" + apiKey + "/city-zips." + myFormat + "/" + city + "/" + state
