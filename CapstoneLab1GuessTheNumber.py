@@ -10,9 +10,9 @@ def chooseNumber():
 def evaluateGuess(number, guess):
     if 1 <= guess <= 100:
         if number > guess:
-            return "under"
+            return "high"
         elif number < guess:
-            return "over"
+            return "low"
         elif number == guess:
             return "correct"
     else:
