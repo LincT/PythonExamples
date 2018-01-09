@@ -8,8 +8,7 @@ def main():
 
     for i in range(len(formatting)):
         if i > 0:
-            formattedString += (formatting[i])[0].capitalize()
-            formattedString += (formatting[i])[1:].lower()
+            formattedString += (formatting[i]).capitalize()
     print(formattedString)
 
 
