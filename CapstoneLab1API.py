@@ -1,15 +1,15 @@
 # demonstrating api calls
 import requests
+import os
 
 
 def apiToDictionary(city, state):
     # https://www.zipcodeapi.com/rest/<api_key>/city-zips.<format>/<city>/<state>
-    apiKey = ""
+    apiKey = str(os.environ['zipApiKey'])  # this works if we're not trying to use environment variables.
     myFormat = "json"
     requestString = "https://www.zipcodeapi.com/rest/" + apiKey + "/city-zips." + myFormat + "/" + city + "/" + state
-    # requests.get(requestString)
     response = (requests.get(requestString))
-    return dict(response.json())
+    return dict((response.json()))
 
 
 def main():

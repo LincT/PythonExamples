@@ -6,3 +6,4 @@ test_*.py
 text.txt
 *.pyc
 __pycache__
+projectVariables.py
