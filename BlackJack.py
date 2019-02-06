@@ -35,12 +35,12 @@ def main():
             print(str(playerHand) + '\n' +
                   str(points(playerHand)) +
                   ' points in total.')
-            winner()
+            get_verdict()
         else:
             print(str(playerHand) + '\n' +
                   str(points(playerHand)) +
                   ' points in total.')
-            winner()
+            get_verdict()
 
 
 def getSuite():
@@ -123,32 +123,42 @@ def player():
     if points(playerHand) >= 21:
         # 21 is an automatic endgame
         # anything higher is an automatic loss
-        winner()
+        get_verdict()
 
 
-def winner():
-    playPts = points(playerHand)
-    if playPts <= 21:
-        while points(dealerHand) <= 16:
-            dealer()
-    housePts = points(dealerHand)
-    verdict = ('You have ' + str(playPts) +
+def get_verdict():
+    playerScore = points(playerHand)
+    houseScore = points(dealerHand)
+    verdict = ('You have ' + str(player) +
                ' points, The House has ' +
-               str(housePts) + ', ')
-    if 21 >= playPts > housePts:
-        verdict += 'you win!'
-    elif housePts > 21 >= playPts:
-        verdict += 'you win!'
-    elif playPts > 21:
-        verdict += 'you lose.'
-    elif housePts >= playPts:
-        verdict += 'you lose.'
-    else:
-        verdict += 'you lose.'
+               str(house) + ', ')
+    verdict += "\n" + get_winner(playerScore, houseScore).capitalize() + " wins!"
+    
     print(verdict)
     print('Dealer reveals:\n' + str(dealerHand))
     # pause for response if run from outside
     # compiler.
-    str(input('Any key to exit\n'))
+    # str(input('Any key to exit\n'))
     exit()
-main()
+
+
+def get_winner(player,house):
+    verdict = ""
+
+    if player <= 21:
+        while points(dealerHand) <= 16:
+            dealer()
+    if 21 >= player > house:
+        verdict += 'player'
+    elif house > 21 >= player:
+        verdict += 'player'
+    elif player > 21:
+        verdict += 'dealer'
+    elif house >= player:
+        verdict += 'dealer'
+    else:
+        verdict += 'dealer'
+    return verdict
+
+if __name__ == '__main__':
+    main()

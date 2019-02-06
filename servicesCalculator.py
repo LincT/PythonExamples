@@ -11,10 +11,8 @@ class AutoEstimateGUI:
     def __init__(self):
         # main window and our frames
         self.mainWindow = tkinter.Tk()
-        self.topFrame = \
-            tkinter.Frame(self.mainWindow)
-        self.btmFrame = \
-            tkinter.Frame(self.mainWindow)
+        self.topFrame = tkinter.Frame(self.mainWindow)
+        self.btmFrame = tkinter.Frame(self.mainWindow)
 
         # service types and costs
         self.services = {
@@ -33,18 +31,16 @@ class AutoEstimateGUI:
 
         # form generation
         for each in self.services.keys():
+            titleText = each.title()
+            priceText = self.services[each]
+            padLength = len(titleText) + len(format(priceText, '.2f'))
 
             # make each an IntVar
             self.cbValues[each] = tkinter.IntVar()
             self.cbValues[each].set(0)  # set each
             self.cb = tkinter.Checkbutton(
                 self.topFrame,
-                text=str(
-                    each.title()
-                    .ljust(50, '.') +
-                    ' $' + format(
-                        self.services[each],
-                        '.2f')),
+                text=str(each.title().ljust(40-padLength, '.') + ' $ ' + format(self.services[each], '.2f')),
                 variable=self.cbValues[each])
 
             # pack each checkbutton as it finishes

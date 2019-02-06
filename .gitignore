@@ -7,3 +7,4 @@ text.txt
 *.pyc
 __pycache__
 projectVariables.py
+.idea
