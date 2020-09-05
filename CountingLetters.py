@@ -14,7 +14,7 @@ def letterTypeCount(myString):  # vowel and consonant counts
 
 
 def readLines():  # read lines in a file and get statistics
-    readFile = open("text.txt")
+    readFile = open(r".\sample_data\text.txt")
     wordcount = 0
     lines = readFile.readlines()
     for line in lines:
