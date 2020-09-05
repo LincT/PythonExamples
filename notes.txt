@@ -1,9 +1,0 @@
-_ as a temp variable,
-able to use _ as dead space in expressions, ie:
-car = (red, auto, 12, 3812.4)
-color, _, _, mileage = car
-
-str vs repr
-
-import copy
-copy.deepcopy
