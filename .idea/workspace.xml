@@ -2,110 +2,18 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="832f1a60-1309-4722-aa36-de8832f45122" name="Default" comment="new files added">
-      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hyperlinks_url_docx.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sql_handler.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MenuMaker.py" beforeDir="false" afterPath="$PROJECT_DIR$/MenuMaker.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/custom_errors.py" beforeDir="false" afterPath="$PROJECT_DIR$/custom_errors.py" afterDir="false" />
     </list>
-    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
-  </component>
-  <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/notes.txt">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="136">
-              <caret line="8" column="13" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/.gitignore">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="34">
-              <caret line="2" column="9" selection-start-line="2" selection-start-column="9" selection-end-line="2" selection-end-column="9" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/custom_errors.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="68">
-              <caret line="4" selection-start-line="4" selection-end-line="4" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/indenter.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="140">
-              <caret line="14" column="80" selection-start-line="14" selection-start-column="80" selection-end-line="14" selection-end-column="80" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/github api example.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="170">
-              <caret line="19" column="52" selection-start-line="19" selection-start-column="52" selection-end-line="19" selection-end-column="52" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/assert.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="153">
-              <caret line="9" column="23" selection-start-line="9" selection-start-column="23" selection-end-line="9" selection-end-column="23" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/pythagorean_value_calculator.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="51">
-              <caret line="3" column="31" selection-start-line="3" selection-start-column="31" selection-end-line="3" selection-end-column="31" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/xl_handler.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="85">
-              <caret line="6" column="29" selection-start-line="6" selection-start-column="22" selection-end-line="6" selection-end-column="35" />
-              <folding>
-                <element signature="e#0#11#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://C:/Program Files/Python37/Lib/urllib/parse.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="13396">
-              <caret line="790" selection-start-line="790" selection-end-line="790" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://C:/Program Files/Python37/Lib/codecs.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="5627">
-              <caret line="332" selection-start-line="332" selection-end-line="332" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-    </leaf>
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -129,51 +37,7 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="IdeDocumentHistory">
-    <option name="CHANGED_PATHS">
-      <list>
-        <option value="$PROJECT_DIR$/main.py" />
-        <option value="$PROJECT_DIR$/servicesCalculator" />
-        <option value="$PROJECT_DIR$/test.py" />
-        <option value="$PROJECT_DIR$/test.py" />
-        <option value="$PROJECT_DIR$/TestSamples.py" />
-        <option value="$PROJECT_DIR$/test_autoEstimateGUI.py" />
-        <option value="$PROJECT_DIR$/recursiveList.py" />
-        <option value="$PROJECT_DIR$/.idea/workspace.xml" />
-        <option value="$PROJECT_DIR$/text.txt" />
-        <option value="$PROJECT_DIR$/CapstoneLab1HelloPython.py" />
-        <option value="$PROJECT_DIR$/CapstoneLab1CamelCase.py" />
-        <option value="$PROJECT_DIR$/CapstoneLab1GuessTheNumber.py" />
-        <option value="$PROJECT_DIR$/projectVariables.py" />
-        <option value="$PROJECT_DIR$/CapstoneLab1API.py" />
-        <option value="$PROJECT_DIR$/test_getSuite.py" />
-        <option value="$PROJECT_DIR$/BlackJack.py" />
-        <option value="$PROJECT_DIR$/test_main.py" />
-        <option value="$PROJECT_DIR$/servicesCalculator.py" />
-        <option value="$PROJECT_DIR$/github api example.py" />
-        <option value="$PROJECT_DIR$/xl_handler.py" />
-        <option value="$PROJECT_DIR$/MenuMaker.py" />
-        <option value="$PROJECT_DIR$/__init__.py" />
-        <option value="$PROJECT_DIR$/mysql_extractor.py" />
-        <option value="$PROJECT_DIR$/CountingLetters.py" />
-        <option value="$PROJECT_DIR$/assert.py" />
-        <option value="$PROJECT_DIR$/Fileio.py" />
-        <option value="$PROJECT_DIR$/indenter.py" />
-        <option value="$PROJECT_DIR$/scratchPad.py" />
-        <option value="$PROJECT_DIR$/strings.py" />
-        <option value="$PROJECT_DIR$/custom_errors.py" />
-        <option value="$PROJECT_DIR$/notes.txt" />
-        <option value="$PROJECT_DIR$/pythagorean_value_calculator.py" />
-        <option value="$PROJECT_DIR$/.gitignore" />
-      </list>
-    </option>
-  </component>
-  <component name="ProjectFrameBounds">
-    <option name="x" value="10" />
-    <option name="y" value="20" />
-    <option name="width" value="1346" />
-    <option name="height" value="688" />
-  </component>
+  <component name="ProjectId" id="1lV9VdvHnvq3i7CX4NcvEkvhb9z" />
   <component name="ProjectInspectionProfilesVisibleTreeState">
     <entry key="Project Default">
       <profile-state>
@@ -194,37 +58,13 @@
     </entry>
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
-  <component name="ProjectView">
-    <navigator proportions="" version="1">
-      <foldersAlwaysOnTop value="true" />
-    </navigator>
-    <panes>
-      <pane id="ProjectPane">
-        <subPane>
-          <expand>
-            <path>
-              <item name="examples" type="b2602c69:ProjectViewProjectNode" />
-              <item name="examples" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="examples" type="b2602c69:ProjectViewProjectNode" />
-              <item name="examples" type="462c0819:PsiDirectoryNode" />
-              <item name="sample_data" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="examples" type="b2602c69:ProjectViewProjectNode" />
-              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
-            </path>
-          </expand>
-          <select />
-        </subPane>
-      </pane>
-      <pane id="Course" />
-    </panes>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
-    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+    <property name="settings.editor.selected.configurable" value="preferences.sourceCode.Python" />
   </component>
   <component name="PyConsoleOptionsProvider">
     <option name="myPythonConsoleState">
@@ -246,25 +86,16 @@
     </option>
   </component>
   <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Linc\PycharmProjects\examples" />
+    </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="C:\Users\Linc\PycharmProjects\examples" />
       <recent name="C:\Users\Linc\PycharmProjects\examples\sample_data" />
       <recent name="C:\Users\Linc\PycharmProjects\examples\tests" />
     </key>
   </component>
-  <component name="RunDashboard">
-    <option name="ruleStates">
-      <list>
-        <RuleState>
-          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
-        </RuleState>
-        <RuleState>
-          <option name="name" value="StatusDashboardGroupingRule" />
-        </RuleState>
-      </list>
-    </option>
-  </component>
-  <component name="RunManager" selected="Python.custom_errors">
+  <component name="RunManager" selected="Python.pythagorean_value_calculator">
     <configuration default="true" type="PythonConfigurationType" factoryName="Python">
       <module name="blah" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -278,27 +109,6 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <option name="SCRIPT_NAME" value="" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="assert" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="examples" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/assert.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -328,7 +138,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="indenter" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="hyperlinks_url_docx" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="examples" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -340,7 +150,28 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/indenter.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/hyperlinks_url_docx.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="pythagorean_value_calculator" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="examples" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/pythagorean_value_calculator.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -406,11 +237,21 @@
       <module name="blah" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
       <option name="SDK_HOME" value="" />
       <option name="WORKING_DIRECTORY" value="" />
       <option name="IS_MODULE_SDK" value="false" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
       <option name="studyTest" value="" />
       <method v="2" />
     </configuration>
@@ -471,6 +312,7 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <option name="_new_keywords" value="&quot;&quot;" />
+      <option name="_new_parameters" value="&quot;&quot;" />
       <option name="_new_additionalArguments" value="&quot;&quot;" />
       <option name="_new_target" value="&quot;&quot;" />
       <option name="_new_targetType" value="&quot;PATH&quot;" />
@@ -478,21 +320,22 @@
     </configuration>
     <list>
       <item itemvalue="Python.scratchPad" />
-      <item itemvalue="Python.assert" />
-      <item itemvalue="Python.indenter" />
       <item itemvalue="Python.strings" />
       <item itemvalue="Python.custom_errors" />
+      <item itemvalue="Python.pythagorean_value_calculator" />
+      <item itemvalue="Python.hyperlinks_url_docx" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.pythagorean_value_calculator" />
+        <item itemvalue="Python.hyperlinks_url_docx" />
         <item itemvalue="Python.custom_errors" />
         <item itemvalue="Python.strings" />
         <item itemvalue="Python.scratchPad" />
-        <item itemvalue="Python.indenter" />
-        <item itemvalue="Python.assert" />
       </list>
     </recent_temporary>
   </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="SvnConfiguration">
     <configuration />
   </component>
@@ -528,68 +371,12 @@
       <configuration name="Unittests in test_main.py" configurationId="tests" />
     </history-entry>
   </component>
-  <component name="ToolWindowManager">
-    <frame x="10" y="20" width="1346" height="688" extended-state="0" />
-    <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.29892966" />
-      <window_info id="Structure" order="1" weight="0.25" />
-      <window_info anchor="bottom" id="Message" order="0" />
-      <window_info anchor="bottom" id="Find" order="1" weight="0.3291536" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.34234235" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.39934534" />
-      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
-      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
-      <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="bottom" id="Version Control" order="7" weight="0.32707354" />
-      <window_info anchor="bottom" id="Python Console" order="8" weight="0.53693694" />
-      <window_info anchor="bottom" id="Educational.CheckDetails" order="9" />
-      <window_info active="true" anchor="bottom" id="Terminal" order="10" visible="true" weight="0.23243243" />
-      <window_info anchor="right" id="Commander" order="0" weight="0.4" />
-      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
-      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
-      <window_info anchor="right" id="Data View" order="3" />
-    </layout>
-    <layout-to-restore>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.2909226" />
-      <window_info id="Structure" order="1" weight="0.25" />
-      <window_info anchor="bottom" id="Message" order="0" />
-      <window_info anchor="bottom" id="Find" order="1" weight="0.3291536" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.31096563" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
-      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
-      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
-      <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="bottom" id="Version Control" order="7" weight="0.32707354" />
-      <window_info anchor="bottom" id="Python Console" order="8" weight="0.53846157" />
-      <window_info anchor="bottom" id="Educational.CheckDetails" order="9" />
-      <window_info anchor="bottom" id="Terminal" order="10" weight="0.3289689" />
-      <window_info anchor="right" id="Commander" order="0" weight="0.4" />
-      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
-      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
-      <window_info anchor="right" id="Data View" order="3" />
-    </layout-to-restore>
-  </component>
   <component name="Vcs.Log.Tabs.Properties">
     <option name="TAB_STATES">
       <map>
         <entry key="MAIN">
           <value>
-            <State>
-              <option name="RECENTLY_FILTERED_USER_GROUPS">
-                <collection />
-              </option>
-              <option name="RECENTLY_FILTERED_BRANCH_GROUPS">
-                <collection />
-              </option>
-              <option name="COLUMN_ORDER">
-                <list>
-                  <option value="0" />
-                  <option value="1" />
-                  <option value="2" />
-                  <option value="3" />
-                </list>
-              </option>
-            </State>
+            <State />
           </value>
         </entry>
       </map>
@@ -608,6 +395,7 @@
         </entry>
       </map>
     </option>
+    <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Early Blackjack (week 6 of course before certain aspects covered)&#10;&#10;Tkinter in under 100 lines w/ procedural menu generation." />
@@ -621,251 +409,30 @@
     <MESSAGE value="new files added" />
     <option name="LAST_COMMIT_MESSAGE" value="new files added" />
   </component>
-  <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/TestSamples.py" />
-    <entry file="file://$PROJECT_DIR$/.idea/workspace.xml">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$USER_HOME$/AppData/Local/Programs/Python/Python36/Lib/os.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="578">
-          <caret line="668" selection-start-line="668" selection-end-line="668" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/projectVariables.py" />
-    <entry file="file://$PROJECT_DIR$/test_getSuite.py" />
-    <entry file="file://$USER_HOME$/AppData/Local/Programs/Python/Python36/Lib/site-packages/xlrd/__init__.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="272">
-          <caret line="32" column="4" selection-start-line="32" selection-start-column="4" selection-end-line="32" selection-end-column="4" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/recursiveList.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="204">
-          <caret line="12" column="30" selection-start-line="12" selection-start-column="30" selection-end-line="12" selection-end-column="30" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/sample_data/text.txt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="170">
-          <caret line="10" selection-start-line="10" selection-end-line="10" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/tests/test_main.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="119">
-          <caret line="7" column="20" selection-start-line="7" selection-start-column="20" selection-end-line="7" selection-end-column="20" />
-          <folding>
-            <element signature="e#0#29#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/tests/test_autoEstimateGUI.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="51">
-          <caret line="3" column="6" selection-start-line="3" selection-start-column="6" selection-end-line="3" selection-end-column="6" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/CapstoneLab1API.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="187">
-          <caret line="12" selection-start-line="12" selection-end-line="12" />
-          <folding>
-            <element signature="e#26#41#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/CapstoneLab1CamelCase.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="102">
-          <caret line="6" column="35" selection-start-line="6" selection-start-column="35" selection-end-line="6" selection-end-column="35" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/servicesCalculator.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="238">
-          <caret line="14" column="24" selection-start-line="14" selection-start-column="24" selection-end-line="14" selection-end-column="24" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/CapstoneLab1GuessTheNumber.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="119">
-          <caret line="7" selection-start-line="7" selection-end-line="7" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/venv/Lib/site-packages/openpyxl/__init__.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="85">
-          <caret line="5" column="34" selection-start-line="5" selection-start-column="34" selection-end-line="5" selection-end-column="34" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/CountingLetters.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="68">
-          <caret line="16" column="22" selection-start-line="16" selection-start-column="22" selection-end-line="16" selection-end-column="22" />
-          <folding>
-            <element signature="e#65#505#0" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/venv/Lib/site-packages/openpyxl/workbook/workbook.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="119">
-          <caret line="49" column="6" selection-start-line="49" selection-start-column="6" selection-end-line="49" selection-end-column="6" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/venv/Lib/site-packages/openpyxl/reader/__init__.py">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/__init__.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret column="18" selection-start-column="18" selection-end-column="18" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/BlackJack.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="2754">
-          <caret line="162" selection-start-line="162" selection-end-line="162" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/MenuMaker.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="408">
-          <caret line="24" selection-start-line="24" selection-end-line="24" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../MySQLtoTextExtractor/app/Fileio.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="136">
-          <caret line="8" column="10" selection-end-line="63" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/scratchPad.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="884">
-          <caret line="52" selection-start-line="52" selection-end-line="52" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Fileio.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="323">
-          <caret line="19" selection-start-line="19" selection-end-line="19" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/strings.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="833">
-          <caret line="49" column="38" selection-start-line="49" selection-start-column="38" selection-end-line="49" selection-end-column="38" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://C:/Program Files (x86)/Python38-32/Lib/string.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1785">
-          <caret line="105" selection-start-line="105" selection-end-line="105" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/mysql_extractor.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret column="9" selection-start-column="9" selection-end-column="9" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/assert.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="153">
-          <caret line="9" column="23" selection-start-line="9" selection-start-column="23" selection-end-line="9" selection-end-column="23" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/xl_handler.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="85">
-          <caret line="6" column="29" selection-start-line="6" selection-start-column="22" selection-end-line="6" selection-end-column="35" />
-          <folding>
-            <element signature="e#0#11#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://C:/Program Files/Python37/Lib/urllib/parse.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="13396">
-          <caret line="790" selection-start-line="790" selection-end-line="790" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://C:/Program Files/Python37/Lib/codecs.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="5627">
-          <caret line="332" selection-start-line="332" selection-end-line="332" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/pythagorean_value_calculator.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="51">
-          <caret line="3" column="31" selection-start-line="3" selection-start-column="31" selection-end-line="3" selection-end-column="31" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/custom_errors.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="68">
-          <caret line="4" selection-start-line="4" selection-end-line="4" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/indenter.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="140">
-          <caret line="14" column="80" selection-start-line="14" selection-start-column="80" selection-end-line="14" selection-end-column="80" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/github api example.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="170">
-          <caret line="19" column="52" selection-start-line="19" selection-start-column="52" selection-end-line="19" selection-end-column="52" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/notes.txt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="136">
-          <caret line="8" column="13" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/.gitignore">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="34">
-          <caret line="2" column="9" selection-start-line="2" selection-start-column="9" selection-end-line="2" selection-end-column="9" />
-        </state>
-      </provider>
-    </entry>
+  <component name="WindowStateProjectService">
+    <state x="363" y="100" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog" timestamp="1613067761029">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="363" y="100" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog/0.0.1366.728@0.0.1366.728" timestamp="1613067761029" />
+    <state x="463" y="119" key="FileChooserDialogImpl" timestamp="1613067007271">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="463" y="119" key="FileChooserDialogImpl/0.0.1366.728@0.0.1366.728" timestamp="1613067007271" />
+    <state width="1345" height="186" key="GridCell.Tab.0.bottom" timestamp="1607671514600">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1345" height="186" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1607671514600" />
+    <state width="1345" height="186" key="GridCell.Tab.0.center" timestamp="1607671514600">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1345" height="186" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1607671514600" />
+    <state width="1345" height="186" key="GridCell.Tab.0.left" timestamp="1607671514600">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1345" height="186" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1607671514600" />
+    <state width="1345" height="186" key="GridCell.Tab.0.right" timestamp="1607671514600">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1345" height="186" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1607671514600" />
   </component>
 </project>

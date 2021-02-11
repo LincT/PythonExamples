@@ -2,7 +2,7 @@
 
 class menu_maker:
     @staticmethod
-    def show_menu(options_list: dict, replace_underscore: bool=True):
+    def show_menu(options_list: dict, replace_underscore: bool = True):
         """
 
         :param options_list:
